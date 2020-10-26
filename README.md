@@ -7,5 +7,6 @@
 
 * 🗣 C++ 
 * :octocat: Git | Github
-* 🌐 HTML | CSS
+* 🌐 HTML5 | CSS3 | Bootstrap | SCSS
+* 🖥️ VS Code
  
