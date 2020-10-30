@@ -6,12 +6,12 @@
 ## <h2 align="center"> ⚡ Tech Stack: </h2>
 
  <p align="center">
- * 🗣 C++ 
+  🗣 C++ 
  <br>
- * :octocat: Git | Github
+  :octocat: Git | Github
  <br>
- * 🌐 HTML5 | CSS3 | Bootstrap | SCSS 
+  🌐 HTML5 | CSS3 | Bootstrap | SCSS 
  <br>
- * 🖥️ VS Code 
+  🖥️ VS Code 
  </p>
 
